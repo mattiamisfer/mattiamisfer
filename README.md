@@ -1,4 +1,12 @@
-### Hi there 👋
+<div align="center">
+
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+
+
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mattiamisfer@gmail.com?subject=Hello%20Misfer,%20From%20Github)
+
+</div>
 
 <!--
 **mattiamisfer/mattiamisfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
