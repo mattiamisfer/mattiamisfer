@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
-Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
+[![Hello World, I'm  Misfer!](assets/header.gif)](https://github.com/mattiamisfer)
 
 
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:mattiamisfer@gmail.com?subject=Hello%20Misfer,%20From%20Github)
